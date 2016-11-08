@@ -1,0 +1,5 @@
+<img src="eric.jpg" alt="" id="profileImg" style=""/>
+        <div id="profileInfo">
+            <h2>Yeah you could call him a cool guy</h2>
+            Eric has been a cool guy since day 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. -, sed ut hoc iudicaremus, non esse in iis partem maximam positam beate aut secus vivendi. Nec enim, omnes avaritias si aeque avaritias esse dixerimus, sequetur ut etiam aequas esse dicamus. Tum Triarius: Posthac quidem, inquit, audacius. Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse. Ita enim vivunt quidam, ut eorum vita refellatur oratio. Duo Reges: constructio interrete. Sed in rebus apertissimis nimium longi sumus. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; Quodsi vultum tibi, si incessum fingeres, quo gravior viderere, non esses tui similis;
+        </div>

@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 31, 2016, 10:05:24 PM
+    Author     : zacharybechhoefer
+*/
+
+.banner {
+    position: relative;
+    z-index: 0;
+    height: 400px;
+    overflow: visible;
+}
+
+.banner div {
+    position: relative;
+    //top: 7vw;
+    height: 400px;
+    width: 100%;
+    z-index: -1;
+}
+
+li {
+    list-style: none;
+}
+
+.slide {
+    background-size: contain;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color: white;
+    overflow: visible;
+}
+
+#slide-1 {
+    background-image:url('cad-part1.png');
+}
+#slide-2 {
+    background-image:url('cad-part2.png');
+}
+#slide-3 {
+    background-image:url('data.png');
+}
+
+#prev {
+    position: absolute;
+    bottom: 5%;
+    height: 70px;
+    left: 5px;
+    z-index: 1;
+}
+
+#next {
+    position: absolute;
+    bottom: 5%;
+    height: 70px;
+    right: 5px;
+    z-index: 1;
+}
+
+#slideCap { width: 7%; height: 10000px; background-color: rgba(0,0,0,.5); padding: 20px; position: absolute; z-index: 0; color: white; font-size: 20px; font-family: sans-serif;}
+
+
+@media (max-width: 600px) {
+    .banner {
+        height: 300px;
+    }
+    .banner div {
+        height: 600px;    
+    }
+}

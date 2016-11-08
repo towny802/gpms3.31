@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 23, 2016, 11:23:05 PM
+    Author     : zacharybechhoefer
+*/
+
+#shifter-container {
+    position: relative;
+    width: 100%;
+    min-height: 400px;
+    z-index: 0;
+    overflow: hidden;
+}
+
+#shifter-container div {
+}
+
+#shifter-container div * {
+    opacity: 1;
+}
+
+
+.shifter {
+    position: absolute;
+    width: 50%;
+    min-height: 400px;
+    -webkit-transition: right 3s; /* For Safari 3.1 to 6.0 */
+    transition: right 3s;
+    z-index: 1;
+}
+
+#floater1 {
+    left:0px;
+    background-image: url('https://static-secure.guim.co.uk/sys-images/Guardian/About/General/2010/7/19/1279561044543/Female-Eurasian-Kestrel-h-006.jpg');    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#floater2 {
+    background-image: url('kiwi.jpg');
+    right: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.shifterCap {
+    position: absolute; 
+    min-height: 200px; 
+    bottom: 0px; 
+    width: 100%; 
+    background-color: rgba(128,128,128,.8); 
+    color: black; 
+    font-family: sans-serif; 
+    color: white; 
+    font-size: 20px; 
+    padding: 10px; 
+    text-align: left;
+}
+
+.shifterCap a {
+    color: rgb(0,128,0);
+}
+
+@media (max-height: 600px) {
+    font-size: 2vw;
+}

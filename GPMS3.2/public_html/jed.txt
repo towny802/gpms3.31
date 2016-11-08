@@ -1,0 +1,35 @@
+<img src="jed.jpg" alt="" id="profileImg" style=""/>
+        <div id="profileInfo">
+            <h2>Jed Kalkstein, President & CFO
+</h2>
+&nbsp;
+Jed Kalkstein has a diverse background that includes operating roles in executive management of startup and growth stage companies, turnarounds, and venture capital investing.  He has participated on several corporate and non-profit boards of directors.
+<br /><br />
+
+&nbsp;
+Since moving to Vermont, Jed has worked as a consultant typically engaged for financial, strategic and operations support.  His clients encompass a range of companies and industries in both Vermont and Connecticut.  Most recently, Jed worked with Pwnie Express, a remote full stack, full spectrum penetration testing platform for use at distributed network locations.  At Pwnie, he was responsible for corporate development and as well as building all finance, HR and administration functions to help the business scale.  He managed the fundraising effort that successfully raised $5M in Series A financing in 2013 to set the company up for aggressive growth.
+<br /><br />
+
+
+&nbsp;
+In addition, Jed has had an extended engagement with SmartEquip, which is a SaaS content distribution and procurement software network for the heavy equipment industry.  At SmartEquip, Jed is responsible for legal, HR, finance and administration.
+<br /><br />
+
+
+&nbsp;
+Prior to relocating to Vermont, Jed was in a CFO role with Perimeter Internetworking Corporation responsible for investor communications, HR, legal affairs, contract negotiations, acquisitions, finance and accounting.  In two years, the company doubled in revenue and margins, completed six acquisitions, raised $14M in bank debt, and grew to over 200 employees around the country and overseas.  The company was sold to BAE Systems in 2014 for $230M.
+<br /><br />
+
+
+&nbsp;
+Prior to Perimeter, Jed was a partner at Connecticut Innovations, Inc., a state-affiliated $100M venture capital fund.  He also served as interim CFO for a software company in the physical security marketplace during a turnaround effort; was a strategic consulting and corporate development professional at Arch Chemicals; and served as a political appointee at the U.S. Department of Justice.  
+<br />
+<br />
+
+&nbsp;
+He currently serves on the Board of Managers for the VSJF Flexible Capital Fund (a $3M socially oriented investment fund) and is the Treasurer for the Northern Forest Canoe Trail.  He also formally served as the Treasurer of the Board of Trustees at the Mad River Glen ski area, as a member of the Investment Committee for the Vermont Seed Capital Fund (a $5M venture and economic development fund), and as President of the Mad River Valley Youth Lacrosse League. 
+<br />
+<br />
+
+&nbsp;
+Jed graduated with honors from Hobart College and received a BA in Philosophy and Political Science.  He also holds an MBA from the School of Management at Yale University. </div>

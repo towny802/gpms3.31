@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 31, 2016, 9:57:50 PM
+    Author     : zacharybechhoefer
+*/
+
+#footer {
+    position: relative;
+    float: bottom;
+    clear: both;
+    width: 100%;
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    overflow:auto;
+    display: flex;
+}
+
+
+#footer .footer-item{
+    display: inline-block;
+}
+
+#footer ul {
+    list-style-type: none;
+}
+
+#footer ul li a {
+    list-style-type: none;
+    color: black;
+    text-decoration: none;
+}
+
+#footer ul li a:hover {
+    color: rgb(0,128,0);
+}
+
+#footer ul li h3 {
+    list-style-type: none;
+    color: black;
+    text-decoration: underline;
+}
+
+.footer-item {
+    float: left;
+    margin: 30px;
+    margin: 0 auto;
+}
